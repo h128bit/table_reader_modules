@@ -1,0 +1,3 @@
+URL_GET_TABLE_STRUCT_PDF = "http://127.0.0.1:5000/controller/tablestruct/pdf"
+URL_GET_TABLE_STRUCT_IMG = "http://127.0.0.1:5000/controller/tablestruct/img"
+URL_RECOGNIZE_TABLE = "http://127.0.0.1:5000/controller/recognise/easyocr/img"
